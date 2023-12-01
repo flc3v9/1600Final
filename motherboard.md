@@ -17,7 +17,7 @@ A computer's motherboard dictates the size of the computer. This is called form 
 - ATX
 - E-ATX
 
-Mini-ITX is used for small, low cost PCs. Its size limits the potential capabilities and connections of the computer compared to the other form factor types; although, this form factor does support moderate gaming if other components are chosen correctly.
+Mini-ITX is used for small, low-cost PCs. Its size limits the potential capabilities and connections of the computer compared to the other form factor types; although, this form factor does support moderate gaming if other components are chosen correctly.
 
 Micro-ATX is also a smaller form factor. This form has the same type of features as the typical ATX, but it is suited for a less powerful, smaller set up due to less PCIe lanes. This form is slightly larger than Mini-ITX, so it cannot fit in the same case as those forms. This form is of the ATX type, so it can fit in mid-tower or larger cases.
 
@@ -35,17 +35,17 @@ These chips work together to manage communication between the CPU and other part
 This chipset will be different depending on the manufacturer of the motherboard/the intended CPU for the motherboard. The two main chipsets are Intel and AMD, and these chipsets are found on various other-party motherboards. As such, when building a PC, you must keep in mind what chipset your motherboard has and if it will be compatible with the CPU you want. Laptops have chipsets too, but they are predetermined by the type of laptop you are buying.
 
 ### Basic Input/Output System (BIOS) 
-BIOS is the firmware that initalizes hardware upon start up/booting up. It is stored in a memory chip or flash memory on the motherboard. BIOS is essentially the connector between software and hardware as it checks that each hardware component is working up to spec and that it can work with the computer's software. Both laptops and PCs have BIOS as it is required to help the computer run properly.
+BIOS is the firmware that initializes  hardware upon startup/boot up. It is stored in a memory chip or flash memory on the motherboard. BIOS is essentially the connector between software and hardware as it checks that each hardware component is working up to spec and that it can work with the computer's software. Both laptops and PCs have BIOS as it is required to help the computer run properly.
 
-If you build a PC, you will want to check BIOS upon start up to ensure that all the components you attached run properly. If your BIOS does not run correctly, this can cause major problems with your computer or it can completely brick your computer. 
+If you build a PC, you will want to check BIOS upon start up to ensure that all the components you attached run properly. If your BIOS does not run correctly, this can result in major problems with your computer or a complete brick of your computer. 
 
 ### Network Interface Controller (NIC)
-The NIC is a computer component that connects the computer to a network. Older computers required the NIC to be bought and installed/connected seperately, but most modern motherboards have NIC already installed on them. All computers require a NIC of some kind to be able to connect to the Internet. Most laptops and PCs will have a wireless NIC and a wired NIC that allows for both wireless (Wi-Fi) connections and wired (Ethernet) connections. When building a computer, you will want to make sure you have a NIC included in the motherboard, and that it is the type of NIC you want. Otherwise, you will have to add on the type of NIC you want to the motherboard.
+The NIC is a computer component that connects the computer to a network. Older computers required the NIC to be bought and installed/connected separately, but most modern motherboards have NIC already installed on them. All computers require a NIC of some kind to be able to connect to the Internet. Most laptops and PCs will have a wireless NIC and a wired NIC that allows for both wireless (Wi-Fi) connections and wired (Ethernet) connections. When building a computer, you will want to make sure you have a NIC included in the motherboard, and that it is the type of NIC you want. Otherwise, you will have to add on the type of NIC you want to the motherboard.
 
 ### Sound Cards
 Sound cards are expansion cards that process audio input and output signals. For PCs, sound cards are not commonly included with the motherboard. There are some motherboards that do include sound cards, but it is suggested for PC builders to choose their own sound cars for their own needs. 
 
-Sound cards *are* included in laptop motherboards or the audio controls are integrated in the motherboard in some other way. Laptops do not need sound cards, and connecting one is often unnecessary. Instead of a sound card, you would want to connect a better speaker or microphone to your laptop's external bus connectors for better audio input/output.
+Sound cards *are* included in laptop motherboards, or the audio controls are integrated in the motherboard in some other way. Laptops do not need sound cards, and connecting one is often unnecessary. Instead of a sound card, you would want to connect a better speaker or microphone to your laptop's external bus connectors for better audio input/output.
 
 
 ### Peripheral Component Interconnect Express (PCIe)
@@ -55,9 +55,9 @@ PCIe generations are different releases of PCIe over the years. Each generation 
 
 The newest generation is PCIe 6.0, but the most common PCIe generations supported in motherboards are PCIe 3.0 and 4.0. There are motherboards that support PCIe 5.0, but this is less common due cost and the fact that many components do not have PCIe 5.0 connectors which makes the faster lanes redundant. 
 
-PCIe slot size is denoted in factors of 2 with a preceeding X. For example, PCIe x16 vs x4. Slot size is exactly as it sounds; the larger the number after the x, the more pins the slot has and the larger the slot is. Some motherboards only have smaller PCIe slots while other motherboards have multiple, large x16 slots.
+PCIe slot size is denoted in factors of 2 with a preceding X. For example, PCIe x16 vs x4. Slot size is exactly as it sounds; the larger the number after the x, the more pins the slot has and the larger the slot is. Some motherboards only have smaller PCIe slots while other motherboards have multiple, large x16 slots.
 
-Laptops and PCs both have PCIe slots, the difference is that you cannot connect new things to your laptop PCIe lanes easily. This would require disassembling and rearranging the way your laptop works. In PC builiding, the PCIe slots of a motherboard must be considered when buying computer components. What type of slots and how many slots will dictate how strong the computer will be.
+Laptops and PCs both have PCIe slots, the difference is that you cannot connect new things to your laptop PCIe lanes easily. This would require disassembling and rearranging the way your laptop works. In PC building, the PCIe slots of a motherboard must be considered when buying computer components. What type of slots and how many slots will dictate how strong the computer will be.
 
 ### Connections Bus Types
 A bus is a communication system that transfers data from components inside a computer. There are internal and external buses on a motherboard. Examples of a bus are SATA and USB and the aforementioned PCIe.

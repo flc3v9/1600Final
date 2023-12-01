@@ -7,7 +7,7 @@
 *Corsair RM750x (2021) 750 W 80+ Gold Certified Fully Modular ATX Power Supply*
 
 ### What does a PSU do?
-A PSU converts the AC current from the wall the computer is plugged into and turns it into regulated DC power to better power the computer components. Some PSUs have manual switches for input voltage while others automaticallh adapt to main voltage.
+A PSU converts the AC current from the wall the computer is plugged into and turns it into regulated DC power to better power the computer components. Some PSUs have manual switches for input voltage while others automatically adapt to main voltage.
 
 ### Compatibility
 The PSU is one of the last things you will want to consider when building a computer. This is because the wattage of the PSU depends on all other expected computer components, and you will need to determine the type of cables needed to connect the PSU to the motherboard, CPU, GPU, SATA, and other connectors.
@@ -28,8 +28,8 @@ A more efficient PSU will use less power and generate less heat. It will also be
 The size of your PSU matters as it will dictate whether or not it will fit into your case and actually transfer power from your case to your computer. Most PSUs are compatible with ATX[^1], but micro-ATX and mini-ITX might have issues with fitting the PSU into the smaller cases.
 
 ### PSU vs Battery
-It is worth noting that laptops do not have PSUs because they are equipped with batteries that gain charge via external power supply. This is because laptops are meant to be portable and PCs are not. Adjusting your laptop to include a PSU pretty much negates the point of having a laptop.
+It is worth noting that laptops do not have PSUs because they are equipped with batteries that gain charge via external power supply. This is because laptops are meant to be portable while PCs are not. Adjusting your laptop to include a PSU pretty much negates the point of having a laptop.
 
-**IMPORTANT NOTE FOR LAPTOP USERS:** If you own a laptop, do **NOT** overcharge your laptop/leave it plugged in overnight. This constantly heats your device's internal components and will add to deterioration over time. Seriously. I have seen two year old computers have the battery life of a 10 year old computer due to overcharging. 
+**IMPORTANT NOTE FOR LAPTOP USERS:** If you own a laptop, do **NOT** overcharge your laptop/leave it plugged in overnight. This constantly heats your device's internal components and will add to deterioration over time. Seriously. I have seen two-year-old computers have the battery life of a 10-year-old computer due to overcharging. 
 
 [^1]: See the section about form factor in the [motherboard](motherboard.md) article.
